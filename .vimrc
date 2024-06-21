@@ -8,6 +8,7 @@ endtry
 
 "Visibility
 set number
+set relativenumber
 
 "Indentation
 "set expandtab
@@ -20,7 +21,11 @@ set mouse=a
 set showcmd
 
 "keymap
-nmap <C-q> :wq<CR>
+nmap <C-p> :wq<CR>
+nmap <C-q> :w<CR>
 nmap <C-c> :set mouse=<CR>
 nmap <C-v> :set mouse=a<CR>
 nmap <C-t> :terminal<CR>
+
+"NerdTree
+nmap <C-e> :NERDTreeToggle<CR>

@@ -11,97 +11,189 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/inver
+~MSle0~/concat
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
+:q
+|2,0,1718917558,,"q"
+:set norelativenumber
+|2,0,1718914529,,"set norelativenumber"
+:set nonumber
+|2,0,1718914524,,"set nonumber"
+:vs ~/Desktop/torneio.c
+|2,0,1718913630,,"vs ~/Desktop/torneio.c"
+:q!
+|2,0,1718912354,,"q!"
+:!
+|2,0,1718902890,,"!"
+:wq
+|2,0,1718902726,,"wq"
+:WQ
+|2,0,1718902669,,"WQ"
+:concat
+|2,0,1718900823,,"concat"
+:subs
+|2,0,1718884442,,"subs"
+:490
+|2,0,1718823212,,"490"
+:1
+|2,0,1718823200,,"1"
+:380
+|2,0,1718817184,,"380"
+:split LibTH.hpp
+|2,0,1718732457,,"split LibTH.hpp"
+:vs LibTH.hpp
+|2,0,1718732445,,"vs LibTH.hpp"
+:qw
+|2,0,1718732046,,"qw"
+:Q
+|2,0,1718731928,,"Q"
+:w
+|2,0,1718715950,,"w"
+:30
+|2,0,1718625842,,"30"
+:800
+|2,0,1718625810,,"800"
+:vs CHANGELOG.md
+|2,0,1718307646,,"vs CHANGELOG.md"
+:NERDTreeToggle
+|2,0,1718307227,,"NERDTreeToggle"
+:NER
+|2,0,1718307204,,"NER"
+:770
+|2,0,1718301819,,"770"
+:700
+|2,0,1718299774,,"700"
+:vs LibAD.hpp
+|2,0,1718214235,,"vs LibAD.hpp"
+:600
+|2,0,1718208961,,"600"
+:split
+|2,0,1718214799,,"split"
+:NerdTREEToggle
+|2,0,1718209358,,"NerdTREEToggle"
+:set relativenumber
+|2,0,1718208922,,"set relativenumber"
+:set number
+|2,0,1718208893,,"set number"
+:set 
+|2,0,1718208885,,"set "
+:Wq
+|2,0,1718195482,,"Wq"
+:'<,'>q
+|2,0,1718136244,,"'<,'>q"
+:terminal
+|2,0,1718108578,,"terminal"
+:exit
+|2,0,1718108643,,"exit"
+:<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect
+|2,0,1718039929,,"<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect"
+:580
+|2,0,1717875252,,"580"
+:W
+|2,0,1717769566,,"W"
+:530
+|2,0,1717614336,,"530"
+:53
+|2,0,1717614334,,"53"
+:34
+|2,0,1717599469,,"34"
+:500
+|2,0,1717532051,,"500"
+:50
+|2,0,1717532048,,"50"
+:operator
+|2,0,1717532013,,"operator"
 :483
 |2,0,1717441916,,"483"
-:q
-|2,0,1717441894,,"q"
-:wq
-|2,0,1717441796,,"wq"
-:w
-|2,0,1717441702,,"w"
-:!
-|2,0,1717439540,,"!"
 :480
 |2,0,1717436810,,"480"
-:W
-|2,0,1717342417,,"W"
 :739
 <<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cur
 |2,0,1717195549,,>738
 |<"<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug
 |<>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cursors-wait)<Plug>(multiple-cur"
-:q!
-|2,0,1717188235,,"q!"
-:Q
-|2,0,1717188220,,"Q"
-:Wq
-|2,0,1717177696,,"Wq"
-:terminal
-|2,0,1717177232,,"terminal"
-:'<,'>q
-|2,0,1717177213,,"'<,'>q"
-:NERDTreeToggle
-|2,0,1717176663,,"NERDTreeToggle"
 :NERD
 |2,0,1717176652,,"NERD"
 :NERDtree
 |2,0,1717176598,,"NERDtree"
-:<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)'
-|2,0,1717176325,,"<Plug>(multiple-cursors-apply)<Plug>(multiple-cursors-detect)'"
-:set number
-|2,0,1717089873,,"set number"
-:set nonumber
-|2,0,1717089862,,"set nonumber"
-:PlugInstall preservim/nerdtree
-|2,0,1717036542,,"PlugInstall preservim/nerdtree"
-:PlugInstall 'preservim/nerdtree'
-|2,0,1717036535,,"PlugInstall 'preservim/nerdtree'"
-:tree on
-|2,0,1717036153,,"tree on"
-:on tree
-|2,0,1717036150,,"on tree"
-:tree=on
-|2,0,1717036133,,"tree=on"
-:tree
-|2,0,1717036122,,"tree"
-:set numbers
-|2,0,1716997291,,"set numbers"
-:set nonumbers
-|2,0,1716997282,,"set nonumbers"
-:help
-|2,0,1716947926,,"help"
-:help version9
-|2,0,1716947671,,"help version9"
-:set autoindent
-|2,0,1716764390,,"set autoindent"
-:set noautoindent
-|2,0,1716764315,,"set noautoindent"
-:set autoindent expandtab tabstop=4
-|2,0,1716764312,,"set autoindent expandtab tabstop=4"
-:set shiftwidth=4
-|2,0,1716763659,,"set shiftwidth=4"
-:set shiftwidth 4
-|2,0,1716763643,,"set shiftwidth 4"
-:set autoindent expandtab tabstop=2
-|2,0,1716763462,,"set autoindent expandtab tabstop=2"
-:set tabspace 4
-|2,0,1716763412,,"set tabspace 4"
-:e $MYVIMRC
-|2,0,1716690859,,"e $MYVIMRC"
 
 # Search String History (newest to oldest):
+?/concat
+|2,1,1718900827,47,"concat"
+?/sub
+|2,1,1718884415,47,"sub"
+?/fill
+|2,1,1718823205,47,"fill"
+?/compare
+|2,1,1718740637,47,"compare"
+?/pop
+|2,1,1718740390,47,"pop"
+?/read
+|2,1,1718740378,47,"read"
+?/pushFr
+|2,1,1718732245,47,"pushFr"
+?/push
+|2,1,1718627244,47,"push"
+?/fread
+|2,1,1718626783,47,"fread"
+?/pushBac
+|2,1,1718626448,47,"pushBac"
+?/pushBack
+|2,1,1718626127,47,"pushBack"
+?/ifs
+|2,1,1718626869,47,"ifs"
+?/ifst
+|2,1,1718626854,47,"ifst"
+?/split
+|2,1,1718307461,47,"split"
+?/.data
+|2,1,1718301756,47,".data"
+?/.daa
+|2,1,1718301748,47,".daa"
+?/target.data
+|2,1,1718301744,47,"target.data"
+?/?
+|2,1,1718209442,47,"?"
+?/:split
+|2,1,1718214993,47,":split"
+?/NERD
+|2,1,1718214301,47,"NERD"
+?/remove
+|2,1,1718195774,47,"remove"
+?/removd
+|2,1,1718195771,47,"removd"
+?/delete
+|2,1,1718141806,47,"delete"
+?/buffer
+|2,1,1718141790,47,"buffer"
+? \<popFront\>
+|2,1,1718136858,,"\\<popFront\\>"
+?/}
+|2,1,1718036859,47,"}"
+?/{
+|2,1,1718036832,47,"{"
+?/std::cout
+|2,1,1718036811,47,"std::cout"
+?/case
+|2,1,1718036799,47,"case"
+?/search
+|2,1,1717699995,47,"search"
+?/arra
+|2,1,1717687906,47,"arra"
+?/isLowerr
+|2,1,1717617087,47,"isLowerr"
+?/operator
+|2,1,1717532018,47,"operator"
+?/ARRint
+|2,1,1717521509,47,"ARRint"
 ?/1
 |2,1,1717436678,47,"1"
 ?/inver
 |2,1,1717415232,47,"inver"
-?/delete
-|2,1,1717089778,47,"delete"
 ?/lua
 |2,1,1716947708,47,"lua"
 ? @$
@@ -114,329 +206,1553 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	g++ test.cpp -lglfw3 -lGL -o teste
-	
-|3,0,0,0,2,0,1717373111,"g++ test.cpp -lglfw3 -lGL -o teste",""
-"1	CHAR	0
-	#include <GLFW/glfw3.h>
-	
-|3,0,1,0,2,0,1717338347,"#include <GLFW/glfw3.h>",""
-"2	LINE	0
-	" DO NOT EDIT THIS FILE
-	" Add your own customizations in ~/.vim_runtime/my_configs.vim
-	
-|3,0,2,1,3,0,1717176872,"\" DO NOT EDIT THIS FILE","\" Add your own customizations in ~/.vim_runtime/my_configs.vim",""
-"3	LINE	0
-	" DO NOT EDIT THIS FILE
-	" Add your own customizations in ~/.vim_runtime/my_configs.vim
-	
-	set runtimepath+=~/.vim_runtime
-	
-|3,0,3,1,5,0,1717176862,"\" DO NOT EDIT THIS FILE","\" Add your own customizations in ~/.vim_runtime/my_configs.vim","","set runtimepath+=~/.vim_runtime",""
-"4	LINE	0
-	
-	source ~/.vim_runtime/vimrcs/plugins_config.vim
-	try
-	  source ~/.vim_runtime/my_configs.vim
-	catch
-	endtry
-	
-|3,0,4,1,7,0,1717176857,"","source ~/.vim_runtime/vimrcs/plugins_config.vim","try","  source ~/.vim_runtime/my_configs.vim","catch","endtry",""
-"5	LINE	0
-	
-	source ~/.vim_runtime/vimrcs/plugins_config.vim
-	try
-	  source ~/.vim_runtime/my_configs.vim
-	catch
-	endtry
-	
-|3,0,5,1,7,0,1717176843,"","source ~/.vim_runtime/vimrcs/plugins_config.vim","try","  source ~/.vim_runtime/my_configs.vim","catch","endtry",""
-"6	LINE	0
-	"source ~/.vim_runtime/vimrcs/basic.vim
-|3,0,6,1,1,0,1717176828,"\"source ~/.vim_runtime/vimrcs/basic.vim"
-"7	LINE	0
-	"source ~/.vim_runtime/vimrcs/filetypes.vim
-|3,0,7,1,1,0,1717176828,"\"source ~/.vim_runtime/vimrcs/filetypes.vim"
-"8	LINE	0
-	'"source ~/.vim_runtime/vimrcs/extended.vim
-|3,0,8,1,1,0,1717176827,"'\"source ~/.vim_runtime/vimrcs/extended.vim"
-"9	LINE	0
-	
-|3,0,9,1,1,0,1717176346,""
-""-	CHAR	0
+"0	LINE	0
+	void E16E1(){
+		int s1  0,
+			s2 = 0;
+		std::cout << "Insira o tamanho dos dois arranjos: ";
+		std::cin >> s1 >> s2; getchar();
+		ARRint* arr1 = new ARRint(s1);
+		ARRint* arr2 = new ARRint(s2);
+		for(int i=0; i<s1; i++){
+			std::cout << "Insira um valor para o primeiro arranjo: ";
+			std::cin >> arr1->arr[i]; getchar();
+		}
+		for(int i=0; i<s2; i++){
+			std::cout << "Insira um valor para o segundo arranjo: ";
+			std::cin >> arr2->arr[i]; getchar();
+		}
+		std::cout << "\n\nConsidere os arranjos:\n";
+		arr1->print();
+		std::cout << "\n";
+		arr2->print();
+		ARRint* result = arr1->merge(arr2);
+		std::cout << "\nResultado: ";
+		result->print();
+		getchar();
+		delete arr1;
+		delete arr2;
 	}
-|3,1,36,0,1,0,1717439168,"}"
+|3,0,0,1,26,0,1718901957,"void E16E1(){","	int s1  0,","		s2 = 0;","	std::cout << \"Insira o tamanho dos dois arranjos: \";","	std::cin >> s1 >> s2; getchar();","	ARRint* arr1 = new ARRint(s1);","	ARRint* arr2 = new ARRint(s2);","	for(int i=0; i<s1; i++){","		std::cout << \"Insira um valor para o primeiro arranjo: \";","		std::cin >> arr1->arr[i]; getchar();","	}","	for(int i=0; i<s2; i++){","		std::cout << \"Insira um valor para o segundo arranjo: \";",>40
+|<"		std::cin >> arr2->arr[i]; getchar();","	}","	std::cout << \"\\n\\nConsidere os arranjos:\\n\";","	arr1->print();","	std::cout << \"\\n\";","	arr2->print();","	ARRint* result = arr1->merge(arr2);","	std::cout << \"\\nResultado: \";","	result->print();","	getchar();","	delete arr1;","	delete arr2;","}"
+""1	LINE	0
+	#include <stdbool.h>
+|3,1,1,1,1,0,1718913536,"#include <stdbool.h>"
+"2	LINE	0
+	#include <string.h>
+|3,0,2,1,1,0,1718913530,"#include <string.h>"
+"3	LINE	0
+	#include <math.h>
+|3,0,3,1,1,0,1718913528,"#include <math.h>"
+"4	LINE	0
+	// teste de "classes" e orientacao a objetos na linguagem C
+|3,0,4,1,1,0,1718903048,"// teste de \"classes\" e orientacao a objetos na linguagem C"
+"5	LINE	0
+		testMeth
+|3,0,5,1,1,0,1718902391,"	testMeth"
+"6	LINE	0
+	
+|3,0,6,1,1,0,1718901348,""
+"7	LINE	0
+	
+|3,0,7,1,1,0,1718899518,""
+"8	LINE	0
+	
+|3,0,8,1,1,0,1718899517,""
+"9	LINE	0
+		
+|3,0,9,1,1,0,1718899517,"	"
+"-	CHAR	0
+	();
+|3,0,36,0,1,0,1718913687,"();"
 
 # File marks:
-'0  485  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,48,485,0,1717441927,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
-'1  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,49,5,0,1717441907,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
-'2  492  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,50,492,0,1717441796,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
-'3  497  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,51,497,0,1717441796,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
-'4  26  11  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp
-|4,52,26,11,1717441763,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp"
-'5  15  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,53,15,0,1717441747,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
-'6  16  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,54,16,0,1717441747,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
-'7  5  28  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,55,5,28,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
-'8  6  10  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,56,6,10,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
-'9  6  10  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,57,6,10,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
+'0  2  0  ~/repos/puc_cic/java/AtFiles/Account.java
+|4,48,2,0,1718917558,"~/repos/puc_cic/java/AtFiles/Account.java"
+'1  21  22  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,49,21,22,1718914579,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+'2  1  0  ~/repos/puc_cic/java/AtFiles/Account.java
+|4,50,1,0,1718913880,"~/repos/puc_cic/java/AtFiles/Account.java"
+'3  1  0  ~/repos/puc_cic/java/AtFiles/Account.java
+|4,51,1,0,1718913880,"~/repos/puc_cic/java/AtFiles/Account.java"
+'4  21  20  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,52,21,20,1718913809,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+'5  16  2  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,53,16,2,1718913689,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+'6  16  2  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,54,16,2,1718913689,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+'7  16  2  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,55,16,2,1718913689,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+'8  16  2  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,56,16,2,1718913689,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+'9  1  0  ~/Desktop/torneio.c
+|4,57,1,0,1718913649,"~/Desktop/torneio.c"
 
 # Jumplist (newest first):
--'  485  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,39,485,0,1717441927,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,39,1,0,1717441910,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717441907,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717441907,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717441890,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717441890,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  492  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,39,492,0,1717441796,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
--'  497  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,39,497,0,1717441796,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
--'  497  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,39,497,0,1717441796,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
--'  26  11  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp
-|4,39,26,11,1717441763,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp"
--'  26  11  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp
-|4,39,26,11,1717441763,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp"
--'  26  11  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp
-|4,39,26,11,1717441763,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp"
--'  26  11  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp
-|4,39,26,11,1717441763,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp
-|4,39,1,0,1717441755,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp
-|4,39,1,0,1717441755,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp
-|4,39,1,0,1717441755,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp
-|4,39,1,0,1717441755,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp"
--'  15  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,15,0,1717441747,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  16  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,16,0,1717441747,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  16  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,16,0,1717441747,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  15  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,15,0,1717441747,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  16  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,16,0,1717441747,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  16  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,16,0,1717441747,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717441427,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717441427,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717441427,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717441427,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  6  10  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,6,10,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  6  10  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,6,10,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  6  10  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,6,10,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  6  10  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,6,10,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  6  10  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,6,10,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  6  10  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,6,10,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  6  10  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,6,10,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  6  10  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,6,10,1717440148,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717440103,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717440103,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717440103,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717440103,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  484  117  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,39,484,117,1717440084,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
--'  489  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,39,489,0,1717440084,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
--'  489  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,39,489,0,1717440084,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,39,1,0,1717439942,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-|4,39,1,0,1717439942,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  5  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,5,0,1717439937,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717439905,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717439905,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717439905,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717439905,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717439905,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  1  0  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-|4,39,1,0,1717439905,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
--'  9  24  ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
-|4,39,9,24,1717439552,"~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp"
+-'  2  0  ~/repos/puc_cic/java/AtFiles/Account.java
+|4,39,2,0,1718917558,"~/repos/puc_cic/java/AtFiles/Account.java"
+-'  1  0  ~/repos/puc_cic/java/AtFiles/Account.java
+|4,39,1,0,1718915403,"~/repos/puc_cic/java/AtFiles/Account.java"
+-'  21  22  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,21,22,1718914579,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  21  22  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,21,22,1718914579,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,1,0,1718914515,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,1,0,1718914515,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/java/AtFiles/Account.java
+|4,39,1,0,1718913880,"~/repos/puc_cic/java/AtFiles/Account.java"
+-'  1  0  ~/repos/puc_cic/java/AtFiles/Account.java
+|4,39,1,0,1718913880,"~/repos/puc_cic/java/AtFiles/Account.java"
+-'  21  20  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,21,20,1718913809,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  21  20  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,21,20,1718913809,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  14  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,14,0,1718913749,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  14  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,14,0,1718913749,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  14  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,14,0,1718913749,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  14  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,14,0,1718913749,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,1,0,1718913720,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,1,0,1718913720,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  16  2  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,16,2,1718913689,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  16  2  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,16,2,1718913689,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  16  2  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,16,2,1718913689,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  16  2  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,16,2,1718913689,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  16  2  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,16,2,1718913689,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  16  2  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,16,2,1718913689,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,1,0,1718913679,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,1,0,1718913679,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  1  0  ~/Desktop/torneio.c
+|4,39,1,0,1718913649,"~/Desktop/torneio.c"
+-'  2  18  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,2,18,1718913630,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  2  18  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,2,18,1718913630,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  2  18  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,2,18,1718913630,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  2  18  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,2,18,1718913630,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  2  18  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,2,18,1718913630,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  2  18  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,2,18,1718913630,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  2  18  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,2,18,1718913630,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  2  18  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,2,18,1718913630,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,1,0,1718913560,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,1,0,1718913560,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  4  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,4,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  3  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,3,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  4  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,4,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  3  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,3,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  4  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,4,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  3  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,3,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  4  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,4,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  3  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,3,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  4  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,4,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  3  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,3,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  4  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,4,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  3  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,3,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  4  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,4,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  3  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,3,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  4  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,4,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  3  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,3,0,1718913539,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,1,0,1718913523,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  1  0  ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+|4,39,1,0,1718913523,"~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
+-'  4  7  ~/Desktop/test.c
+|4,39,4,7,1718912354,"~/Desktop/test.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
-	*	1717441927	0
-	"	485	0
-	^	485	0
-	.	484	12
-	+	484	12
-	+	12	31
-	+	4	34
-	+	4	18
+> ~/repos/puc_cic/java/AtFiles/Account.java
+	*	1718915864	0
+	"	2	0
+
+> ~/repos/puc_cic/LIP_IC/CLikeIC/torneio.c
+	*	1718914576	0
+	"	21	22
+	^	21	21
+	.	21	20
+	+	4	0
+	+	2	19
+	+	3	19
+	+	15	34
+	+	21	20
+
+> ~/Desktop/torneio.c
+	*	1718913649	0
+	"	1	0
+
+> ~/repos/puc_cic/LIP_IC/CLikeIC/NERD_tree_1
+	*	1718913634	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/test.c
+	*	1718912350	0
+	"	4	7
+	^	4	8
+	.	4	7
 	+	5	0
-	+	13	0
-	+	484	49
-	+	484	118
-	+	487	0
-	+	486	21
-	+	487	53
-	+	489	34
-	+	487	31
-	+	492	0
-	+	486	34
-	+	484	12
+	+	4	4
+	+	2	0
+	+	4	7
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED16/LibAD.hpp
+	*	1718908548	0
+	"	96	1
+	^	443	2
+	.	443	1
+	+	657	0
+	+	311	0
+	+	318	11
+	+	315	27
+	+	321	0
+	+	321	11
+	+	322	20
+	+	328	4
+	+	332	11
+	+	322	29
+	+	325	27
+	+	329	4
+	+	335	1
+	+	341	4
+	+	345	11
+	+	336	29
+	+	339	26
+	+	342	31
+	+	348	31
+	+	362	24
+	+	362	23
+	+	363	9
+	+	367	35
+	+	371	2
+	+	393	15
+	+	379	30
+	+	379	0
+	+	393	2
+	+	393	31
+	+	393	1
+	+	393	62
+	+	393	0
+	+	380	30
+	+	382	11
+	+	382	22
+	+	376	66
+	+	382	35
+	+	373	19
+	+	382	9
+	+	382	67
+	+	376	67
+	+	386	30
+	+	387	27
+	+	381	33
+	+	388	6
+	+	386	15
+	+	388	4
+	+	391	3
+	+	391	2
+	+	445	0
+	+	377	4
+	+	393	2
+	+	375	29
+	+	378	11
+	+	393	0
+	+	391	3
+	+	375	29
+	+	392	15
+	+	395	28
+	+	398	28
+	+	404	13
+	+	444	0
+	+	402	13
+	+	403	0
+	+	402	10
+	+	407	32
+	+	414	3
+	+	413	2
+	+	408	11
+	+	414	0
+	+	413	0
+	+	409	23
+	+	413	17
+	+	413	2
+	+	413	4
+	+	413	2
+	+	413	1
+	+	413	0
+	+	410	20
+	+	408	0
+	+	409	0
+	+	410	37
+	+	412	16
+	+	414	0
+	+	419	33
+	+	421	16
+	+	416	26
+	+	422	1
+	+	415	7
+	+	420	9
+	+	416	54
+	+	416	21
+	+	420	0
+	+	416	0
+	+	989	59
+	+	989	86
+	+	989	0
+	+	437	2
+	+	440	31
+	+	443	1
+
+> ~/repos/puc_cic/java/AtFiles/Program.java
+	*	1718906272	0
+	"	1	0
+
+> ~/repos/puc_cic/java/AtFiles/NERD_tree_1
+	*	1718905779	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> ~/repos/puc_cic/random/classInC.c
+	*	1718903098	0
+	"	38	0
+	^	15	0
+	.	14	27
+	+	38	0
+	+	29	58
+	+	16	12
+	+	20	1
+	+	18	0
+	+	5	20
+	+	6	25
+	+	7	10
+	+	8	0
+	+	37	9
+	+	31	0
+	+	31	4
+	+	12	0
+	+	31	34
+	+	31	14
+	+	31	4
+	+	31	19
+	+	31	5
+	+	18	12
+	+	27	0
+	+	31	0
+	+	35	0
+	+	32	1
+	+	24	26
+	+	32	15
+	+	18	16
+	+	24	19
+	+	32	12
+	+	24	13
+	+	32	10
+	+	24	9
+	+	32	6
+	+	18	26
+	+	32	0
+	+	31	0
+	+	18	18
+	+	20	0
+	+	23	32
+	+	24	9
+	+	32	6
+	+	24	0
+	+	32	0
+	+	18	9
+	+	24	12
+	+	31	0
+	+	22	26
+	+	24	35
+	+	24	2
+	+	24	43
+	+	31	29
+	+	24	44
+	+	18	0
+	+	26	0
+	+	24	1
+	+	17	1
+	+	24	35
+	+	24	0
+	+	17	1
+	+	24	0
+	+	18	19
+	+	24	0
+	+	31	0
+	+	20	0
+	+	14	26
+	+	23	6
+	+	31	0
+	+	23	34
+	+	24	9
+	+	32	6
+	+	24	23
+	+	32	21
+	+	32	0
+	+	32	2
+	+	32	0
+	+	19	16
+	+	24	25
+	+	25	24
+	+	32	16
+	+	29	0
+	+	17	0
+	+	14	27
+
+> ~/repos/puc_cic/random/classInC
+	*	1718902343	0
+	"	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED16/NERD_tree_1
+	*	1718902122	0
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED16/LibTH.hpp
+	*	1718902119	0
+	"	199	9
+	^	199	10
+	.	199	9
+	+	7	18
+	+	9	35
+	+	14	1
+	+	19	0
+	+	12	15
+	+	11	9
+	+	20	0
+	+	34	0
+	+	22	1
+	+	29	15
+	+	52	0
+	+	38	0
+	+	45	68
+	+	47	15
+	+	55	0
+	+	66	0
+	+	61	14
+	+	67	0
+	+	68	9
+	+	77	66
+	+	79	13
+	+	85	0
+	+	86	9
+	+	93	12
+	+	70	1
+	+	251	0
+	+	251	1
+	+	251	0
+	+	251	9
+	+	251	0
+	+	251	55
+	+	251	14
+	+	251	0
+	+	97	36
+	+	98	0
+	+	97	30
+	+	97	24
+	+	251	0
+	+	103	54
+	+	102	8
+	+	104	14
+	+	103	39
+	+	105	31
+	+	106	31
+	+	108	59
+	+	109	38
+	+	114	2
+	+	120	34
+	+	121	58
+	+	122	84
+	+	127	0
+	+	115	43
+	+	130	0
+	+	117	3
+	+	115	41
+	+	117	18
+	+	119	18
+	+	127	1
+	+	130	0
+	+	149	29
+	+	149	30
+	+	150	12
+	+	148	19
+	+	154	0
+	+	151	0
+	+	154	0
+	+	155	0
+	+	156	9
+	+	172	1
+	+	165	63
+	+	167	31
+	+	170	0
+	+	168	36
+	+	167	20
+	+	168	93
+	+	169	53
+	+	174	13
+	+	175	31
+	+	177	12
+	+	176	18
+	+	196	0
+	+	183	15
+	+	188	23
+	+	189	1
+	+	192	44
+	+	193	11
+	+	197	13
+	+	189	15
+	+	197	0
+	+	198	0
+	+	197	0
+	+	217	17
+	+	219	6
+	+	198	8
+	+	199	8
+	+	224	0
+	+	225	9
+	+	244	30
+	+	226	9
+	+	199	9
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED16/ED16.cpp
+	*	1718901990	0
+	"	35	12
+	^	31	14
+	.	35	12
+	+	5	35
+	+	17	41
+	+	32	22
+	+	35	23
+	+	26	12
+	+	35	13
+	+	25	12
+	+	26	12
+	+	27	12
+	+	28	12
+	+	29	12
+	+	30	12
+	+	31	11
+	+	32	13
+	+	31	12
+	+	32	12
+	+	33	12
+	+	34	12
+	+	35	12
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED16/ED16.c
+	*	1718901423	0
+	"	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED16/dados.txt
+	*	1718817940	0
+	"	1	49
+	^	1	50
+	.	1	49
+	+	1	49
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED15/LibAD.hpp
+	*	1718738171	0
+	"	765	1
+	.	1	0
+	+	773	11
+	+	779	34
+	+	781	20
+	+	779	0
+	+	781	27
+	+	779	0
+	+	781	37
+	+	780	18
+	+	781	45
+	+	780	18
+	+	781	111
+	+	781	68
+	+	817	3
+	+	781	99
+	+	781	78
+	+	783	3
+	+	817	2
+	+	817	3
+	+	820	0
+	+	797	2
+	+	785	8
+	+	784	13
+	+	785	27
+	+	786	7
+	+	781	19
+	+	797	1
+	+	781	21
+	+	786	30
+	+	785	18
+	+	784	13
+	+	785	19
+	+	792	34
+	+	793	21
+	+	779	1
+	+	798	0
+	+	819	0
+	+	798	18
+	+	803	26
+	+	805	12
+	+	805	7
+	+	805	43
+	+	805	18
+	+	804	32
+	+	803	13
+	+	805	19
+	+	805	46
+	+	805	0
+	+	805	7
+	+	798	54
+	+	780	16
+	+	798	56
+	+	783	27
+	+	798	50
+	+	814	3
+	+	805	4
+	+	800	11
+	+	801	7
+	+	800	7
+	+	805	33
+	+	806	4
+	+	805	0
+	+	806	15
+	+	801	25
+	+	806	43
+	+	807	21
+	+	808	17
+	+	786	35
+	+	788	24
+	+	782	12
+	+	782	0
+	+	797	19
+	+	797	1
+	+	782	12
+	+	788	0
+	+	788	8
+	+	806	19
+	+	802	38
+	+	801	30
+	+	798	34
+	+	801	33
+	+	815	0
+	+	801	30
+	+	801	18
+	+	801	33
+	+	801	34
+	+	814	0
+	+	814	5
+	+	814	0
+	+	814	3
+	+	814	1
+	+	814	5
+	+	814	4
+	+	814	0
+	+	814	30
+	+	814	4
+	+	814	11
+	+	814	31
+	+	814	0
+	+	801	0
+	+	1	0
+
+> ~/repos/AED1/Estudos_Dirigidos/ED15/ED15.cpp
+	*	1718732113	0
+	"	43	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED16/ED16c.c
+	*	1718732033	0
+	"	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED16/ED16c.
+	*	1718732028	0
+	"	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED16/ED16
+	*	1718732024	0
+	"	1	0
+
+> ~/repos/puc_cic/java/AtFiles/HelloWorld.java
+	*	1718662835	0
+	"	1	0
+
+> ~/repos/puc_cic/Just_the_basics/teste.c
+	*	1718641415	0
+	"	1	0
+	^	21	43
+	.	21	32
+	+	8	28
+	+	21	42
+	+	8	28
+	+	21	32
+
+> ~/repos/puc_cic/Just_the_basics/teste
+	*	1718641411	0
+	"	1	0
+
+> ~/repos/puc_cic/java/HelloWorld.java
+	*	1718641351	0
+	"	3	38
+	^	3	39
+	.	5	0
+	+	5	0
+	+	4	0
+	+	3	0
+	+	4	0
+	+	6	0
+	+	5	0
+
+> ~/repos/puc_cic/java/HelloWorld.class
+	*	1718633482	0
+	"	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED12/LibTH.hpp
+	*	1718626871	0
+	"	32	9
 
 > ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibTH.hpp
-	*	1717441907	0
-	"	5	0
-	^	5	1
-	.	5	1
-	+	1	20
-	+	6	0
-	+	5	0
-	+	6	0
-	+	5	28
+	*	1718626854	0
+	"	92	0
+	^	1	4
+	.	1	0
+	+	13	0
+	+	8	28
+	+	13	36
+	+	13	19
+	+	13	117
+	+	13	128
+	+	8	29
+	+	7	3
+	+	5	18
+	+	8	47
+	+	10	60
+	+	11	10
+	+	139	0
+	+	15	12
+	+	37	0
+	+	10	54
+	+	5	11
+	+	8	44
+	+	5	11
+	+	9	36
+	+	20	7
+	+	12	15
+	+	24	15
+	+	22	59
+	+	29	1
+	+	30	32
+	+	34	57
+	+	37	1
+	+	41	0
+	+	56	0
+	+	44	24
+	+	45	28
+	+	44	41
+	+	42	19
+	+	48	84
+	+	51	34
+	+	53	51
+	+	43	12
+	+	51	4
+	+	50	30
+	+	51	6
+	+	53	68
+	+	41	28
+	+	55	29
+	+	46	44
+	+	47	23
+	+	45	23
+	+	56	1
+	+	60	1
+	+	61	32
+	+	65	50
+	+	68	1
+	+	69	0
+	+	70	0
+	+	77	48
+	+	70	9
+	+	81	0
+	+	82	0
+	+	83	16
+	+	83	53
+	+	83	0
+	+	85	32
+	+	89	39
+	+	91	40
+	+	92	1
+	+	82	9
+	+	96	0
+	+	97	9
+	+	100	10
+	+	105	70
+	+	106	13
+	+	107	48
+	+	111	0
+	+	112	9
+	+	116	43
+	+	120	22
+	+	122	40
+	+	126	0
+	+	127	12
+	+	138	0
+	+	129	1
+	+	133	25
+	+	129	29
+	+	130	0
+	+	136	0
+	+	134	31
+	+	135	58
+	+	56	0
+	+	134	27
+	+	135	56
+	+	144	1
+	+	143	15
+	+	150	27
+	+	151	30
+	+	160	1
+	+	165	0
+	+	165	43
+	+	165	0
+	+	166	24
+	+	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED16/ED15.cpp
+	*	1718625571	0
+	"	1	0
+
+> ~/repos/WebBrowser/script.js
+	*	1718478825	0
+	"	30	35
+	^	30	36
+	.	30	35
+	+	2	54
+	+	3	54
+	+	8	47
+	+	9	50
+	+	24	2
+	+	24	0
 	+	12	0
-	+	10	18
-	+	13	51
+	+	5	47
+	+	11	50
+	+	31	0
+	+	30	1
+	+	31	1
+	+	30	35
+
+> ~/repos/WebBrowser/index.html
+	*	1718477691	0
+	"	1	0
+	^	14	0
+	.	16	0
 	+	15	0
-	+	5	1
+	+	2	6
+	+	12	8
+	+	12	40
+	+	13	37
+	+	12	8
+	+	13	0
+	+	5	0
+	+	13	81
+	+	14	0
+	+	13	0
+	+	15	7
+	+	16	0
+
+> ~/repos/WebBrowser/README.md
+	*	1718428862	0
+	"	4	43
+	^	4	44
+	.	4	43
+	+	9	118
+	+	3	1
+	+	1	12
+	+	4	1
+	+	10	0
+	+	4	43
+
+> ~/repos/WebBrowser/s
+	*	1718428253	0
+	"	1	0
+
+> ~/repos/WebBrowser/demo.html
+	*	1718428047	0
+	"	174	0
+
+> ~/.vimrc
+	*	1718427958	0
+	"	1	0
+	^	1	0
+	.	24	8
+	+	32	29
+	+	32	13
+	+	32	18
+	+	32	13
+	+	32	12
+	+	32	15
+	+	32	10
+	+	32	11
+	+	3	12
+	+	32	11
+	+	32	0
+	+	32	14
+	+	3	0
+	+	3	13
+	+	32	0
+	+	3	9
+	+	32	0
+	+	3	0
+	+	32	11
+	+	32	0
+	+	32	18
+	+	3	1
+	+	32	52
+	+	32	93
+	+	32	118
+	+	32	52
+	+	32	0
+	+	32	7
+	+	32	48
+	+	32	0
+	+	3	0
+	+	1	0
+	+	21	10
+	+	9	0
+	+	12	0
+	+	1	31
+	+	14	0
+	+	24	14
+	+	19	0
+	+	22	0
+	+	24	0
+	+	15	0
+	+	22	0
+	+	28	0
+	+	27	0
+	+	24	8
+	+	3	0
+	+	24	8
+	+	28	24
+	+	32	0
+	+	24	18
+	+	25	0
+	+	24	20
+	+	25	0
+	+	24	0
+	+	25	0
+	+	31	8
+	+	15	0
+	+	11	11
+	+	10	9
+	+	24	8
+
+> ~/repos/WebBrowser/NERD_tree_1
+	*	1718427953	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/vimrc
+	*	1718427738	0
+	"	1	0
+
+> ~/repos/WebBrowser/NERD_tree_2
+	*	1718427440	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/_config.yml
+	*	1718307650	0
+	"	1	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/CHANGELOG.md
+	*	1718307647	0
+	"	1	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/NERD_tree_1
+	*	1718307609	0
+	"	14	0
+	.	1	0
+	+	1	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/README.markdown
+	*	1718307600	0
+	"	1	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/nerdtree_plugin/vcs.vim
+	*	1718307528	0
+	"	47	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/nerdtree_plugin/fs_menu.vim
+	*	1718307451	0
+	"	350	23
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/nerdtree_plugin/exec_menuitem.vim
+	*	1718307418	0
+	"	19	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED15/NERD_tree_1
+	*	1718307257	0
+	"	3	5
+	.	1	0
+	+	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED15/LibTH.hpp
+	*	1718307179	0
+	"	1	0
+	^	189	38
+	.	189	37
+	+	1	20
+	+	17	0
+	+	8	31
+	+	8	46
+	+	9	39
+	+	14	18
+	+	16	11
+	+	15	0
+	+	30	0
+	+	20	1
+	+	30	0
+	+	26	0
+	+	26	18
+	+	31	0
+	+	32	9
+	+	40	62
+	+	42	18
+	+	196	0
+	+	46	1
+	+	48	9
+	+	55	17
+	+	61	0
+	+	59	1
+	+	69	59
+	+	71	16
+	+	61	9
+	+	75	1
+	+	77	0
+	+	88	0
+	+	84	15
+	+	77	9
+	+	89	0
+	+	99	27
+	+	103	0
+	+	99	27
+	+	100	0
+	+	100	13
+	+	101	66
+	+	102	17
+	+	103	15
+	+	90	9
+	+	107	1
+	+	109	0
+	+	116	0
+	+	98	54
+	+	117	57
+	+	119	15
+	+	109	9
+	+	124	0
+	+	125	9
+	+	133	55
+	+	135	8
+	+	137	7
+	+	135	12
+	+	137	82
+	+	137	5
+	+	136	71
+	+	134	27
+	+	196	0
+	+	140	1
+	+	142	9
+	+	154	81
+	+	152	29
+	+	196	0
+	+	157	1
+	+	159	9
+	+	164	30
+	+	168	62
+	+	170	37
+	+	171	22
+	+	173	51
+	+	170	39
+	+	170	51
+	+	177	0
+	+	178	0
+	+	178	9
+	+	187	32
+	+	192	46
+	+	189	37
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED15/ED15.cpp
+	*	1718302655	0
+	"	35	12
+	^	29	12
+	.	35	12
+	+	25	12
+	+	26	12
+	+	27	12
+	+	28	11
+	+	29	12
+	+	30	12
+	+	31	12
+	+	33	12
+	+	34	12
+	+	35	12
+
+> ~/Desktop/ApresentacaoIC/decaimento.c
+	*	1718275912	0
+	"	1	0
+	^	20	9
+	.	20	9
+	+	3	0
+	+	29	0
+	+	6	23
+	+	6	4
+	+	6	6
+	+	15	41
+	+	8	3
+	+	6	1
+	+	8	1
+	+	6	4
+	+	8	4
+	+	6	19
+	+	6	25
+	+	6	18
+	+	8	19
+	+	16	36
+	+	17	41
+	+	20	20
+	+	16	45
+	+	6	22
+	+	8	7
+	+	22	12
+	+	25	95
+	+	20	9
+	+	25	109
+	+	7	26
+	+	6	20
+	+	6	23
+	+	8	23
+	+	25	137
+	+	13	31
+	+	28	9
+	+	26	0
+	+	25	137
+	+	6	7
+	+	9	23
+	+	15	10
+	+	17	10
+	+	20	9
+
+> ~/Desktop/ApresentacaoIC/volEsfera.c
+	*	1718275879	0
+	"	1	0
+	^	15	21
+	.	15	20
+	+	17	24
+	+	6	20
+	+	23	0
+	+	21	0
+	+	4	19
+	+	17	42
+	+	13	1
+	+	17	2
+	+	19	2
+	+	21	0
+	+	21	15
+	+	17	37
+	+	20	0
+	+	19	0
+	+	21	0
+	+	17	41
+	+	16	0
+	+	15	20
+	+	17	22
+	+	15	20
+
+> ~/Desktop/ApresentacaoIC/decaimento
+	*	1718275484	0
+	"	1	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/doc/tags
+	*	1718214993	0
+	"	67	74
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/menu_item.vim
+	*	1718214945	0
+	"	1	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/path.vim
+	*	1718214924	0
+	"	72	31
+	^	77	27
+	.	72	0
+	+	72	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/tree_file_node.vim
+	*	1718214789	0
+	"	1	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/key_map.vim
+	*	1718214755	0
+	"	19	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/opener.vim
+	*	1718214736	0
+	"	152	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/event.vim
+	*	1718214692	0
+	"	1	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/syntax/nerdtree.vim
+	*	1718214645	0
+	"	97	0
+	.	16	0
+	+	16	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/plugin/NERD_tree.vim
+	*	1718214489	0
+	"	9	0
+
+> ~/.vim_runtime/sources_non_forked/nerdtree/.vintrc.yaml
+	*	1718214401	0
+	"	1	0
+
+> ~/.vim_runtime/vimrcs/plugins_config.vim
+	*	1718214303	0
+	"	91	6
+	^	94	23
+	.	94	22
+	+	160	0
+	+	161	0
+	+	162	0
+	+	160	0
+	+	161	0
+	+	162	0
+	+	163	0
+	+	164	0
+	+	166	0
+	+	169	0
+	+	172	0
+	+	173	0
+	+	174	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	17	0
+	+	20	0
+	+	19	0
+	+	18	0
+	+	19	0
+	+	21	3
+	+	94	22
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED15/ED15
+	*	1718202441	0
+	"	1	0
+
+> ~/NERD_tree_1
+	*	1718201901	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.vim_runtime/vimrcs/NERD_tree_1
+	*	1718201631	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED15/LibA
+	*	1718195226	0
+	"	1	0
+
+> /usr/share/applications/waterfox.desktop
+	*	1718195060	0
+	"	1	0
+	^	6	58
+	.	6	57
+	+	6	47
+	+	1	0
+	+	6	57
+
+> /usr/share/applications/waterfox.desktopclear
+	*	1718195051	0
+	"	1	0
+
+> ~/.DesktopIconsHow.txt
+	*	1718194927	0
+	"	1	43
+	^	1	44
+	.	1	43
+	+	3	47
+	+	1	43
+
+> /usr/share/vim/vim90/doc/help.txt
+	*	1718136244	0
+	"	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED15/ED14.cpp
+	*	1718039933	0
+	"	1	0
+	^	25	14
+	.	35	13
+	+	10	0
+	+	17	41
+	+	5	35
+	+	35	12
+	+	33	12
+	+	32	22
+	+	35	23
+	+	29	12
+	+	35	13
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibAD.hpp
+	*	1718037159	0
+	"	10	17
+	^	662	22
+	.	662	21
+	+	694	14
+	+	696	16
+	+	694	0
+	+	695	14
+	+	677	0
+	+	676	2
+	+	677	0
+	+	676	2
+	+	677	0
+	+	23	0
+	+	701	29
+	+	702	1
+	+	705	19
+	+	711	14
+	+	705	14
+	+	711	7
+	+	705	14
+	+	710	12
+	+	712	14
+	+	710	4
+	+	704	4
+	+	588	7
+	+	591	16
+	+	593	16
+	+	594	2
+	+	596	65
+	+	596	8
+	+	596	16
+	+	596	38
+	+	596	47
+	+	596	64
+	+	596	62
+	+	596	38
+	+	596	16
+	+	596	12
+	+	596	24
+	+	596	44
+	+	596	25
+	+	596	39
+	+	489	15
+	+	490	12
+	+	302	0
+	+	507	2
+	+	608	2
+	+	611	43
+	+	617	0
+	+	620	25
+	+	650	4
+	+	596	2
+	+	650	3
+	+	596	1
+	+	649	3
+	+	609	32
+	+	612	48
+	+	620	15
+	+	611	43
+	+	621	1
+	+	651	0
+	+	619	20
+	+	650	4
+	+	655	1
+	+	596	48
+	+	596	11
+	+	597	0
+	+	596	1
+	+	496	13
+	+	502	26
+	+	596	10
+	+	612	45
+	+	502	24
+	+	600	25
+	+	605	18
+	+	607	7
+	+	620	15
+	+	608	41
+	+	612	54
+	+	666	1
+	+	599	46
+	+	598	8
+	+	610	8
+	+	612	26
+	+	613	7
+	+	502	7
+	+	499	11
+	+	502	28
+	+	504	7
+	+	612	19
+	+	599	16
+	+	600	0
+	+	616	26
+	+	599	14
+	+	502	14
+	+	503	4
+	+	612	9
+	+	616	8
+	+	652	33
+	+	623	18
+	+	628	19
+	+	638	22
+	+	662	21
+	j	533	2
+	n	304	9
 
 > ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/ED14.cpp
-	*	1717441762	0
-	"	26	11
-	^	26	12
-	.	26	12
+	*	1718036997	0
+	"	10	4
+	^	20	11
+	.	39	0
 	+	35	14
 	+	22	0
 	+	21	0
@@ -451,7 +1767,166 @@ $
 	+	39	0
 	+	41	0
 	+	26	12
+	+	25	12
+	+	27	12
+	+	28	12
+	+	29	12
+	+	30	12
+	+	31	12
+	+	32	0
+	+	33	12
+	+	34	12
+	+	35	12
+	+	20	0
+	+	22	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	22	0
+	+	21	0
+	+	39	0
 	u	9	4
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/LibA
+	*	1717875242	0
+	"	1	0
+
+> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/Liba
+	*	1717875235	0
+	"	1	0
+
+> ~/repos/AED1/Minhas_Bibliotecas/LibAD.h
+	*	1717780230	0
+	"	1	0
+
+> ~/Desktop/Prova2Theldo/p.c
+	*	1717606850	0
+	"	28	28
+	^	28	29
+	.	28	29
+	+	55	67
+	+	64	19
+	+	63	5
+	+	64	1
+	+	62	32
+	+	63	2
+	+	64	19
+	+	67	0
+	+	11	20
+	+	42	8
+	+	59	32
+	+	45	9
+	+	10	0
+	+	67	1
+	+	67	41
+	+	67	53
+	+	62	3
+	+	55	63
+	+	58	21
+	+	62	20
+	+	67	25
+	+	67	44
+	+	67	39
+	+	67	1
+	+	67	43
+	+	67	16
+	+	67	24
+	+	67	28
+	+	67	8
+	+	67	13
+	+	67	30
+	+	67	3
+	+	67	4
+	+	67	24
+	+	67	1
+	+	67	72
+	+	67	36
+	+	67	23
+	+	67	17
+	+	67	72
+	+	67	2
+	+	67	3
+	+	67	34
+	+	67	13
+	+	67	5
+	+	11	4
+	+	58	22
+	+	67	1
+	+	11	0
+	+	22	25
+	+	19	20
+	+	20	0
+	+	22	25
+	+	23	0
+	+	40	1
+	+	68	0
+	+	44	1
+	+	47	0
+	+	45	0
+	+	29	30
+	+	24	2
+	+	9	0
+	+	25	9
+	+	29	0
+	+	33	2
+	+	33	9
+	+	12	0
+	+	35	0
+	+	33	0
+	+	27	0
+	+	16	43
+	+	17	0
+	+	51	23
+	+	58	38
+	+	51	37
+	+	52	24
+	+	58	29
+	+	21	21
+	+	26	1
+	+	34	1
+	+	43	0
+	+	29	29
+	+	32	22
+	+	29	14
+	+	12	35
+	+	27	0
+	+	28	29
+
+> ~/Desktop/Prova2Theldo/p
+	*	1717599508	0
+	"	1	0
+
+> ~/Desktop/Prova2Theldo/dados.txt
+	*	1717599328	0
+	"	12	1
+	^	12	2
+	.	12	1
+	+	11	3
+	+	10	0
+	+	11	1
+	+	12	1
+
+> ~/teste/ste.c
+	*	1717533766	0
+	"	8	0
+	^	8	1
+	.	8	0
+	+	8	0
+
+> ~/teste/tess.h
+	*	1717533689	0
+	"	5	0
+	^	5	1
+	.	5	0
+	+	5	0
+
+> ~/repos/shh.txt
+	*	1717457516	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	40
+	+	1	0
 
 > ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED14/test.cpp
 	*	1717439551	0
@@ -586,59 +2061,6 @@ $
 	+	86	14
 	+	3	0
 
-> ~/.vimrc
-	*	1717196194	0
-	"	1	0
-	^	3	0
-	.	3	0
-	+	27	29
-	+	27	13
-	+	27	18
-	+	27	13
-	+	27	12
-	+	27	15
-	+	27	10
-	+	27	11
-	+	3	12
-	+	27	11
-	+	27	0
-	+	27	14
-	+	3	0
-	+	3	13
-	+	27	0
-	+	3	9
-	+	27	0
-	+	3	0
-	+	27	11
-	+	27	0
-	+	27	18
-	+	3	1
-	+	27	52
-	+	27	93
-	+	27	118
-	+	27	52
-	+	27	0
-	+	27	7
-	+	27	48
-	+	27	0
-	+	3	0
-	+	1	0
-	+	20	10
-	+	9	0
-	+	11	0
-	+	1	31
-	+	13	0
-	+	23	14
-	+	18	0
-	+	21	0
-	+	23	0
-	+	14	0
-	+	21	0
-	+	26	0
-	+	25	0
-	+	23	8
-	+	3	0
-
 > ~/.vim_runtime/sources_non_forked/vim-multiple-cursors/plugin/multiple_cursors.vim
 	*	1717196053	0
 	"	45	38
@@ -752,285 +2174,3 @@ $
 > ~/.vim_runtime/vimrcs/basic.vim
 	*	1717188467	0
 	"	196	0
-
-> ~/.vim_runtime/vimrcs/plugins_config.vim
-	*	1717188432	0
-	"	23	0
-	^	18	3
-	.	21	3
-	+	160	0
-	+	161	0
-	+	162	0
-	+	160	0
-	+	161	0
-	+	162	0
-	+	163	0
-	+	164	0
-	+	166	0
-	+	169	0
-	+	172	0
-	+	173	0
-	+	174	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	17	0
-	+	20	0
-	+	19	0
-	+	18	0
-	+	19	0
-	+	21	3
-
-> ~/.vim_runtime/my_configs.vim
-	*	1717188275	0
-	"	1	0
-
-> ~/Downloads/oidn-2.2.2.x86_64.linux/lib/cmake/OpenImageDenoise-2.2.2/OpenImageDenoiseTargets.cmake
-	*	1717180636	0
-	"	1	0
-
-> ~/Downloads/oidn-2.2.2.x86_64.linux/lib/cmake/OpenImageDenoise-2.2.2/OpenImageDenoiseConfig.cmake
-	*	1717180602	0
-	"	1	0
-
-> ~/teste
-	*	1717177213	0
-	"	1	0
-
-> ~/teste.c
-	*	1717176526	0
-	"	1	1
-	^	1	1
-	.	1	0
-	+	1	1
-	+	10	0
-	+	1	1
-	+	9	1
-	+	1	1
-	+	7	0
-	+	5	5
-	+	4	1
-	+	1	1
-	+	3	0
-	+	1	1
-	+	2	0
-	+	1	0
-
-> ~/.vim_runtime/test
-	*	1717175812	0
-	"	2	1
-	^	2	2
-	.	1	0
-	+	3	0
-	+	1	0
-
-> ~/.vim_runtime/test.c
-	*	1717175787	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
-
-> ~/test
-	*	1717175383	0
-	"	1	0
-	^	2	0
-	.	2	0
-	+	3	0
-	+	2	0
-
-> ~/.vim/autoload/plug.vim
-	*	1717174884	0
-	"	209	0
-
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED13/ED13.cpp
-	*	1717154575	0
-	"	43	0
-	^	34	12
-	.	34	12
-	+	26	26
-	+	27	26
-	+	27	64
-	+	29	26
-	+	30	26
-	+	29	26
-	+	30	26
-	+	31	28
-	+	32	28
-	+	33	28
-	+	34	28
-	+	35	30
-	+	34	28
-	+	36	29
-	+	37	29
-	+	13	43
-	+	27	12
-	+	26	12
-	+	27	12
-	+	28	24
-	+	29	12
-	+	30	12
-	+	31	12
-	+	32	12
-	+	33	12
-	+	35	12
-	+	34	12
-
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED13/LibTH.h
-	*	1717105632	0
-	"	1	0
-
-> ~/repos/puc_cic/DIW/TrabalhoPratico1/style.css
-	*	1717105030	0
-	"	2	4
-
-> ~/repos/puc_cic/DIW/TrabalhoPratico1/index.html
-	*	1717105007	0
-	"	1	0
-
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED13/dados.txt
-	*	1717097084	0
-	"	4	8
-	^	4	9
-	.	4	8
-	+	2	8
-	+	1	21
-	+	2	9
-	+	4	8
-
-> ~/Desktop/test.cpp
-	*	1717094633	0
-	"	67	0
-	^	67	1
-	.	67	0
-	+	67	0
-
-> ~/Desktop/kapa/renato.c
-	*	1717090874	0
-	"	14	12
-	^	10	37
-	.	11	0
-	+	10	45
-	+	10	36
-	+	10	35
-	+	10	53
-	+	15	0
-	+	14	13
-	+	10	35
-	+	9	12
-	+	7	9
-	+	10	79
-	+	11	0
-
-> ~/.ssh/authorized_keys
-	*	1717090242	0
-	"	1	0
-
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED13/ED13.exe
-	*	1717090214	0
-	"	65	0
-
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED13/ED13
-	*	1717090176	0
-	"	5	3
-
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED13/Pessoa1.txt
-	*	1717089873	0
-	"	11	0
-	^	2	9
-	.	2	8
-	+	2	8
-
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED13/LibAD.hpp
-	*	1717089617	0
-	"	23	0
-
-> ~/plug.vim
-	*	1717036655	0
-	"	1	0
-
-> ~/repos/puc_cic/Study/prova02AED1.c
-	*	1716988261	0
-	"	112	0
-	^	63	6
-	.	63	5
-	+	19	0
-	+	17	0
-	+	3	38
-	+	3	19
-	+	4	0
-	+	63	5
-
-> ~/Desktop/vim_settings/.vimrc
-	*	1716986858	0
-	"	97	0
-
-> ~/.vim/test.vim
-	*	1716985012	0
-	"	6	0
-
-> /usr/share/vim/vim90/doc/help.txt
-	*	1716948089	0
-	"	1	56
-
-> /usr/share/vim/vim90/doc/version9.txt
-	*	1716947708	0
-	"	348	18
-
-> /etc/vim/vimrc
-	*	1716946576	0
-	"	8	0
-
-> ~/vimrc
-	*	1716946475	0
-	"	1	0
-
-> ~/repos/AED1/Estudos_Dirigidos/ED09/ED09.c
-	*	1716842878	0
-	"	1	0
-	^	8	19
-	.	8	19
-	+	8	19
-
-> ~/repos/AED1/Estudos_Dirigidos/ED09/ED09
-	*	1716842834	0
-	"	1	0
-
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED05/ED05.c
-	*	1716764642	0
-	"	41	0
-
-> ~/Desktop/Study/study.
-	*	1716764124	0
-	"	1	0
-
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED02/EstudoDirigido02.c
-	*	1716764091	0
-	"	1	0
-
-> ~/Desktop/Study/study.c
-	*	1716762606	0
-	"	1	0
-	.	1	0
-	+	1	0
-
-> ~/repos/puc_cic/Theldo_Stuff/Listas_THELDO/ED13/LibTH2.hpp
-	*	1716692158	0
-	"	5	0
-
-> ~/$MYVIMRC
-	*	1716690862	0
-	"	1	0
-
-> ~/.viminfo
-	*	1716690523	0
-	"	143	0
-
-> ~/Desktop/repos/shh.txt
-	*	1716589672	0
-	"	1	39
-	^	1	40
-	.	1	39
-	+	1	39
