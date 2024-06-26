@@ -23,8 +23,8 @@ set showcmd
 "keymap
 nmap <C-p> :wq<CR>
 nmap <C-q> :w<CR>
-nmap <C-c> :set mouse=<CR>
-nmap <C-v> :set mouse=a<CR>
+nmap <C-c> :set mouse=<CR> :set nonumber<CR> :set norelativenumber<CR>
+nmap <C-v> :set mouse=a<CR> :set number<CR> :set relativenumber<CR>
 nmap <C-t> :terminal<CR>
 
 "NerdTree
