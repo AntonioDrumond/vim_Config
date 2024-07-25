@@ -26,6 +26,8 @@ set showcmd
 
 
 "KEYMAPS
+nnoremap <space> <nop>
+let mapleader = "-"
 
 "saving and or quitting
 nnoremap <C-p> :wq<CR>
@@ -44,12 +46,23 @@ nnoremap <M-Down> ddp
 "work in proggress
 "autocmd Filetype c nnoremap <buffer> <C-;> I//<esc>
 
+"Ctrl backspace and delete
+inoremap <C-bs> <esc>ldbi
+inoremap <C-del> <esc>ldwa
+
 "NerdTree
 nnoremap <C-e> :NERDTreeToggle<CR>
 
-"Other
+"Open terminal
 nnoremap <C-t> :terminal<CR> 
+
+"Auto indent text
 nnoremap <C-o> :normal gg=G<CR>
 
+"Other
+inoremap jk <esc>
+
+
 "boilerplates
-iabbrev boilerC int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
+autocmd Filetype c iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
+autocmd Filetype cpp iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
