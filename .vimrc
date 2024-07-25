@@ -32,7 +32,7 @@ let mapleader = "-"
 "saving and or quitting
 nnoremap <C-p> :wq<CR>
 nnoremap <C-q> :w <CR>
-nnoremap <C-=> :q!<CR>
+nnoremap <C-m> :q!<CR>
 
 "Copy and pasting
 nnoremap <C-c> :set mouse=<CR> :set number!<CR> :set relativenumber!<CR>
@@ -45,10 +45,6 @@ nnoremap <M-Down> ddp
 "Commenting
 "work in proggress
 "autocmd Filetype c nnoremap <buffer> <C-;> I//<esc>
-
-"Ctrl backspace and delete
-inoremap <C-bs> <esc>ldbi
-inoremap <C-del> <esc>ldwa
 
 "NerdTree
 nnoremap <C-e> :NERDTreeToggle<CR>
