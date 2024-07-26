@@ -59,6 +59,7 @@ nnoremap <C-o> :normal gg=G<CR>
 inoremap jk <esc>
 inoremap <leader><Del> <esc>ldwi
 inoremap <leader><BS> <esc>ldbi
+nnoremap vs :vs<space>
 
 "boilerplates
 autocmd Filetype c iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
