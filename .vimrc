@@ -6,17 +6,23 @@ try
 catch
 endtry
 
+"NOTES
+"Equal comparing
+" ==# is case sensitive
+" ==? is case insensitive
+" NEVER USE ==
+
 "Visibility
-set number
-set relativenumber
-set wrap
+let &number = 1
+let &relativenumber = 1
+let &wrap = 1
 
 "Indentation
 "set expandtab
-set tabstop=4
-set shiftwidth=4
-set autoindent
-set smartindent
+let &tabstop=4
+let &shiftwidth=4
+let &autoindent = 1
+let &smartindent = 1
 
 autocmd Filetype html set tabstop=2 shiftwidth=2
 autocmd Filetype css set tabstop=2 shiftwidth=2
@@ -64,3 +70,20 @@ nnoremap vs :vs<space>
 "boilerplates
 autocmd Filetype c iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
 autocmd Filetype cpp iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
+
+
+"Status Line
+set statusline=%f\ -\ %y\ 
+set statusline+=%=
+set statusline+=%6l/%-4L\ \ %P
+
+
+"Functions
+function Example()
+	if 0
+		echo "something"
+	elseif 1
+		echo "smtn else"
+	else
+		echo "nothing"
+endfunction
