@@ -73,9 +73,10 @@ autocmd Filetype cpp iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>re
 
 
 "Status Line
-set statusline=%f\ -\ %y\ 
+set laststatus=2
+set statusline=\ %f\ -\ %y\ 
 set statusline+=%=
-set statusline+=%6l/%-4L\ \ %P
+set statusline+=%6l/%-4L\ \ %P\ \ 
 
 
 "Functions
@@ -86,4 +87,14 @@ function Example()
 		echo "smtn else"
 	else
 		echo "nothing"
+endfunction
+
+function Renato(word)
+	echom "ahhhh meniiiino" a:word
+endfunction
+
+function Many(...)
+	echom a:0
+	echom a:1
+	echom a:000
 endfunction
