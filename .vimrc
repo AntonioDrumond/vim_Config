@@ -13,6 +13,7 @@ endtry
 " NEVER USE ==
 
 "Visibility
+syntax on
 let &number = 1
 let &relativenumber = 1
 let &wrap = 1
@@ -26,6 +27,8 @@ let &smartindent = 1
 
 autocmd Filetype html set tabstop=2 shiftwidth=2
 autocmd Filetype css set tabstop=2 shiftwidth=2
+autocmd Filetype v set tabstop=2 shiftwidth=2
+autocmd Filetype verilog set tabstop=2 shiftwidth=2
 
 set mouse=a
 set showcmd
@@ -33,7 +36,7 @@ set showcmd
 
 "KEYMAPS
 nnoremap <space> <nop>
-let mapleader = "-"
+"let mapleader = "-"
 
 "saving and or quitting
 nnoremap <C-p> :wq<CR>
@@ -56,15 +59,14 @@ nnoremap <M-Down> ddp
 nnoremap <C-e> :NERDTreeToggle<CR>
 
 "Open terminal
-nnoremap <C-t> :terminal<CR> 
+nnoremap <C-y> :terminal<CR> 
+nnoremap <C-t> :vs t<CR>:terminal<CR><C-w><C-w>:q!<CR>
 
 "Auto indent text
 nnoremap <C-o> :normal gg=G<CR>
 
 "Other
 inoremap jk <esc>
-inoremap <leader><Del> <esc>ldwi
-inoremap <leader><BS> <esc>ldbi
 nnoremap vs :vs<space>
 
 "boilerplates
@@ -74,7 +76,7 @@ autocmd Filetype cpp iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>re
 
 "Status Line
 set laststatus=2
-set statusline=\ %f\ -\ %y\ 
+set statusline=\ %f\ -\ %y\ %m
 set statusline+=%=
 set statusline+=%6l/%-4L\ \ %P\ \ 
 
