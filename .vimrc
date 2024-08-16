@@ -41,11 +41,10 @@ nnoremap <space> <nop>
 "saving and or quitting
 nnoremap <C-p> :wq<CR>
 nnoremap <C-q> :w <CR>
-nnoremap <C-m> :q!<CR>
+nnoremap <C-n> :q!<CR>
 
 "Copy and pasting
-nnoremap <C-c> :set mouse=<CR> :set number!<CR> :set relativenumber!<CR>
-nnoremap <C-v> :set mouse=a<CR> :set number!<CR> :set relativenumber!<CR>
+nnoremap <C-c> :call Copymode()<CR>
 
 "Moving text
 nnoremap <M-Up> ddkP
@@ -68,6 +67,7 @@ nnoremap <C-o> :normal gg=G<CR>
 "Other
 inoremap jk <esc>
 nnoremap vs :vs<space>
+nnoremap <CR> <nop>
 
 "boilerplates
 autocmd Filetype c iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
@@ -82,13 +82,22 @@ set statusline+=%6l/%-4L\ \ %P\ \
 
 
 "Functions
-function Example()
-	if 0
-		echo "something"
-	elseif 1
-		echo "smtn else"
+
+nnoremap <C-c> :call Copymode()<CR>
+let b:copying = 0
+function Copymode()
+	if(b:copying==#0)
+		set mouse=
+		set nonumber
+		set norelativenumber
+		echom "Entering copy mode"
 	else
-		echo "nothing"
+		set mouse=a 
+		set number
+		set relativenumber
+		echom "Exiting copy mode"
+	endif
+	let b:copying = b:copying==#0 ? 1 : 0
 endfunction
 
 function Renato(word)
