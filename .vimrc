@@ -71,6 +71,7 @@ nnoremap <CR> <nop>
 
 "boilerplates
 autocmd Filetype c iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
+autocmd Filetype c iabbrev <buffer> inclibs #include <stdio.h><CR>#include <stdbool.h><CR>#include <stdlib.h><CR>#include<string.h><CR>
 autocmd Filetype cpp iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
 
 
