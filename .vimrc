@@ -48,7 +48,7 @@ nnoremap <C-c> :call Copymode()<CR>
 
 "Moving text
 nnoremap <M-Up> ddkP
-nnoremap <M-Down> ddp
+nnoremap <M-Down> dd
 
 "Commenting
 "work in proggress
@@ -68,11 +68,13 @@ nnoremap <C-o> :normal gg=G<CR>
 inoremap jk <esc>
 nnoremap vs :vs<space>
 nnoremap <CR> <nop>
+nnoremap <Space> @
 
 "boilerplates
 autocmd Filetype c iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
 autocmd Filetype c iabbrev <buffer> inclibs #include <stdio.h><CR>#include <stdbool.h><CR>#include <stdlib.h><CR>#include<string.h><CR>
 autocmd Filetype cpp iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
+autocmd Filetype java iabbrev <buffer> boiler public static void main(String[] args){<CR><CR>}<Up><tab><tab>
 
 
 "Status Line
