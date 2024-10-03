@@ -48,7 +48,7 @@ nnoremap <C-c> :call Copymode()<CR>
 
 "Moving text
 nnoremap <M-Up> ddkP
-nnoremap <M-Down> dd
+nnoremap <M-Down> ddp
 
 "Commenting
 "work in proggress
@@ -69,6 +69,13 @@ inoremap jk <esc>
 nnoremap vs :vs<space>
 nnoremap <CR> <nop>
 nnoremap <Space> @
+nnoremap H ^
+nnoremap L $
+
+
+
+iabbrev retrun return
+iabbrev rtrun return
 
 "boilerplates
 autocmd Filetype c iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>return 0;<CR>}<Up><Up><Up><tab>
