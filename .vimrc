@@ -84,6 +84,10 @@ autocmd Filetype cpp iabbrev <buffer> boiler int main(){<CR><CR>getchar();<CR>re
 autocmd Filetype java iabbrev <buffer> boiler public static void main(String[] args){<CR><CR>}<Up><tab><tab>
 
 
+"Autocomplete
+autocmd Filetype java iabbrev <buffer> SYOL System.out.println
+autocmd Filetype java iabbrev <buffer> SYOP System.out.print
+
 "Status Line
 set laststatus=2
 set statusline=\ %f\ -\ %y\ %m
