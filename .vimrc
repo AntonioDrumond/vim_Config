@@ -29,6 +29,8 @@ autocmd Filetype html set tabstop=2 shiftwidth=2
 autocmd Filetype css set tabstop=2 shiftwidth=2
 autocmd Filetype v set tabstop=2 shiftwidth=2
 autocmd Filetype verilog set tabstop=2 shiftwidth=2
+autocmd Filetype nix set tabstop=2 shiftwidth=2
+
 
 set mouse=a
 set showcmd
