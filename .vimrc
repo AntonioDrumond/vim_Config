@@ -43,9 +43,6 @@ nnoremap <C-p> :wq<CR>
 nnoremap <C-q> :w <CR>
 nnoremap <C-n> :q!<CR>
 
-"Copy and pasting
-nnoremap <C-c> :call Copymode()<CR>
-
 "Moving text
 nnoremap <M-Up> ddkP
 nnoremap <M-Down> ddp
@@ -97,10 +94,11 @@ set statusline+=%6l/%-4L\ \ %P\ \
 
 "Functions
 
+"Copy and pasting text
 nnoremap <C-c> :call Copymode()<CR>
-let b:copying = 0
+let t:copying = 0
 function Copymode()
-	if(b:copying==#0)
+	if(t:copying==#0)
 		set mouse=
 		set nonumber
 		set norelativenumber
@@ -111,8 +109,28 @@ function Copymode()
 		set relativenumber
 		echom "Exiting copy mode"
 	endif
-	let b:copying = b:copying==#0 ? 1 : 0
+	let t:copying = t:copying==#0 ? 1 : 0
 endfunction
+
+
+"Enable hex editing mode
+nnoremap <C-x> :call Thex()<CR>
+let t:h = 0
+fu Thex()
+	if (t:h==#0)
+		exec "%!xxd"
+	else
+		exec "%!xxd -r"
+	endif
+
+	if (t:h==#0)
+		let t:h = 1
+	else
+		let t:h = 0
+	endif
+endfu
+
+"__________________
 
 function Renato(word)
 	echom "ahhhh meniiiino" a:word
